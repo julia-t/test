@@ -27,7 +27,7 @@ foreach ($persons as $key => $row) {?>
         <td><?=$row['name']?></td>
         <td>
             <? if ($row['role'] == 'admin') {?>
-                админ
+                администратор
             <? } else {?>
                 пользователь
             <? } ?>
