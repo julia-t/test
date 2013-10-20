@@ -7,7 +7,7 @@
         <td>Номер</td>
         <td>Имя</td>
         <td>Роль</td>
-        <td>Ссылка</td>
+        <td>URL</td>
     </tr>
     <?
     if ($_GET['regname']) {
