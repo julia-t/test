@@ -6,8 +6,8 @@
     <tr>
         <td>Номер</td>
         <td>Имя</td>
-        <td>роль</td>
-        <td>ссылка</td>
+        <td>Роль</td>
+        <td>Ссылка</td>
     </tr>
     <?
     if ($_GET['regname']) {
